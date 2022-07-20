@@ -1,4 +1,4 @@
-var filedata7 = `
+var filedata5 = `
 # This file uses centimeters as units for non-parametric coordinates.
 
 v 0.061043 0.025284 0.034490

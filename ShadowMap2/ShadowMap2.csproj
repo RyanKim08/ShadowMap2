@@ -70,6 +70,7 @@
     <Content Include="Common\initShaders.js" />
     <Content Include="Common\MV.js" />
     <Content Include="Common\webgl-utils.js" />
+    <Content Include="Images\soccerball.png" />
     <Content Include="LoadObjNoTexture.js" />
     <Content Include="Objs\battledrone.js" />
     <Content Include="Objs\duck.js" />
